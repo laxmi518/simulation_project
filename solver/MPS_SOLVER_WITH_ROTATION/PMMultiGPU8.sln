@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WallModelMulti", "PMMultiGPU\PMMultiGPU8.vcproj", "{839B1957-9917-48C8-8A89-F07B6AC24BCA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TimerProfile", "TimerProfile\TimerProfile.vcproj", "{E04CA60B-E8FA-478A-B062-2D459B6A0276}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetUpWallModelMulti", "SetUpWallModelMulti\SetUpWallModelMulti.vdproj", "{A538C7C3-6487-4556-A7BE-692C037668F7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cryptlib", "Licence\cryptlib\cryptlib.vcproj", "{E7049814-A709-4048-860E-A831C47249C1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Utils", "Licence\Utils\Utils.vcproj", "{47ED4C3A-D78E-4DFB-B0C2-B7BDA66A74A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839B1957-9917-48C8-8A89-F07B6AC24BCA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{839B1957-9917-48C8-8A89-F07B6AC24BCA}.Debug|Win32.Build.0 = Debug|Win32
+		{839B1957-9917-48C8-8A89-F07B6AC24BCA}.Release|Win32.ActiveCfg = Release|Win32
+		{839B1957-9917-48C8-8A89-F07B6AC24BCA}.Release|Win32.Build.0 = Release|Win32
+		{E04CA60B-E8FA-478A-B062-2D459B6A0276}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E04CA60B-E8FA-478A-B062-2D459B6A0276}.Debug|Win32.Build.0 = Debug|Win32
+		{E04CA60B-E8FA-478A-B062-2D459B6A0276}.Release|Win32.ActiveCfg = Release|Win32
+		{A538C7C3-6487-4556-A7BE-692C037668F7}.Debug|Win32.ActiveCfg = Debug
+		{A538C7C3-6487-4556-A7BE-692C037668F7}.Release|Win32.ActiveCfg = Release
+		{E7049814-A709-4048-860E-A831C47249C1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E7049814-A709-4048-860E-A831C47249C1}.Debug|Win32.Build.0 = Debug|Win32
+		{E7049814-A709-4048-860E-A831C47249C1}.Release|Win32.ActiveCfg = Release|Win32
+		{E7049814-A709-4048-860E-A831C47249C1}.Release|Win32.Build.0 = Release|Win32
+		{47ED4C3A-D78E-4DFB-B0C2-B7BDA66A74A0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47ED4C3A-D78E-4DFB-B0C2-B7BDA66A74A0}.Debug|Win32.Build.0 = Debug|Win32
+		{47ED4C3A-D78E-4DFB-B0C2-B7BDA66A74A0}.Release|Win32.ActiveCfg = Release|Win32
+		{47ED4C3A-D78E-4DFB-B0C2-B7BDA66A74A0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
